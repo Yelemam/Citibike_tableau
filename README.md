@@ -1,6 +1,8 @@
 # Citibike_tableau
 # Citi Bike Challenge Analysis
 
+![citibike](https://github.com/user-attachments/assets/89f9d8dc-1857-41fc-b447-c32cdbfe5fdf)
+
 # Overview
 
 This project analyzes Citi Bike usage data to gain insights into station popularity, rider patterns, and peak usage times. The project was created as part 
